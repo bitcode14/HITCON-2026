@@ -1,5 +1,5 @@
 # HITCON 2026 x DEVCORE Wargame
-
+https://devco.re/blog/2026/10/08/vendor-as-attack-surface-2026-hitcon-wargame/
 This repository is an archive of HITCON 2026 x DEVCORE Wargame.
 
 ## Description
